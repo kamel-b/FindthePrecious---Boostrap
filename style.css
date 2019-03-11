@@ -124,7 +124,7 @@ strong{
   flex-wrap: wrap;
 }
 .media-body{
-  width: 400px;
+  width: auto;
 }
 
 
